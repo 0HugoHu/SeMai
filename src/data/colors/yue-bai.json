@@ -1,0 +1,18 @@
+{
+  "id": "yue-bai",
+  "name": "月白",
+  "pinyin": "Yue Bai",
+  "hex": "#D6ECF0",
+  "rgb": [214, 236, 240],
+  "cmyk": [11, 2, 0, 6],
+  "hsl": [189, 46, 89],
+  "dynasties": ["宋", "明", "清"],
+  "category": "蓝",
+  "moods": ["空灵", "雅致"],
+  "material": "丝绸",
+  "description": "月光映照之白中泛蓝，清冷淡雅，如霜月洒庭院。",
+  "descriptionEn": "White suffused with the faintest blue of moonlight, cool and ethereal, like frost-moon spilling across a courtyard.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

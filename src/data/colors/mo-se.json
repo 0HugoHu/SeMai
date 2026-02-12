@@ -1,0 +1,18 @@
+{
+  "id": "mo-se",
+  "name": "墨色",
+  "pinyin": "Mo Se",
+  "hex": "#50616D",
+  "rgb": [80, 97, 109],
+  "cmyk": [27, 11, 0, 57],
+  "hsl": [205, 15, 37],
+  "dynasties": ["汉", "唐", "宋", "元", "明"],
+  "category": "黑",
+  "moods": ["雅致", "深沉"],
+  "material": "矿石",
+  "description": "松烟墨研磨之色，浓淡之间尽显水墨之韵。",
+  "descriptionEn": "The color of ink ground from pine soot, whose gradations between dark and light reveal the full spirit of ink-wash painting.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

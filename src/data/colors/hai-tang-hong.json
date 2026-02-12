@@ -1,0 +1,18 @@
+{
+  "id": "hai-tang-hong",
+  "name": "海棠红",
+  "pinyin": "Hai Tang Hong",
+  "hex": "#DB5A6B",
+  "rgb": [219, 90, 107],
+  "cmyk": [0, 59, 51, 14],
+  "hsl": [352, 63, 61],
+  "dynasties": ["宋", "明", "清"],
+  "category": "红",
+  "moods": ["温润", "雅致"],
+  "material": "陶瓷",
+  "description": "如海棠花瓣初绽，娇嫩而不失风骨。",
+  "descriptionEn": "Like the first unfurling of crabapple petals, delicate yet possessing an inner strength of character.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

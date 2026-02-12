@@ -1,0 +1,18 @@
+{
+  "id": "zhe-huang",
+  "name": "赭黄",
+  "pinyin": "Zhe Huang",
+  "hex": "#C89B40",
+  "rgb": [200, 155, 64],
+  "cmyk": [0, 23, 68, 22],
+  "hsl": [40, 55, 52],
+  "dynasties": ["唐", "宋", "明"],
+  "category": "黄",
+  "moods": ["威严", "庄重"],
+  "material": "织锦",
+  "description": "赭土与黄交融，唐代帝王常服之色，沉稳大气。",
+  "descriptionEn": "A blend of ochre and gold, the daily attire color of Tang emperors, commanding and stately.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

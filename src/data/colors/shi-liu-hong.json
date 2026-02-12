@@ -1,0 +1,18 @@
+{
+  "id": "shi-liu-hong",
+  "name": "石榴红",
+  "pinyin": "Shi Liu Hong",
+  "hex": "#F20C00",
+  "rgb": [242, 12, 0],
+  "cmyk": [0, 95, 100, 5],
+  "hsl": [3, 100, 47],
+  "dynasties": ["唐", "宋", "明"],
+  "category": "红",
+  "moods": ["喜庆", "天然"],
+  "material": "织锦",
+  "description": "石榴裙下之色，热烈如夏日榴花盛放。",
+  "descriptionEn": "The fiery red of pomegranate blossoms, as passionate and radiant as summer flowers in full bloom.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

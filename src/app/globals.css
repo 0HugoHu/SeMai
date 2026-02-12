@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif-cn: "Noto Serif SC", "Source Han Serif SC", "SimSun", serif;
+  --font-sans-cn: "Noto Sans SC", "Source Han Sans SC", "Microsoft YaHei", sans-serif;
+}
+
+:root {
+  --color-bg-primary: #0a0a0a;
+  --color-bg-secondary: #111111;
+  --color-text-primary: #f5f0e8;
+  --color-text-secondary: #a89f91;
+  --color-text-muted: #6b6459;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans-cn);
+  background: var(--color-bg-primary);
+  color: var(--color-text-primary);
+  overflow: hidden;
+  min-height: 100vh;
+}
+
+::selection {
+  background: rgba(200, 160, 100, 0.3);
+}
+
+/* UI chrome should not be selectable */
+header, nav, .ui-chrome {
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(168, 159, 145, 0.3);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(168, 159, 145, 0.5);
+}

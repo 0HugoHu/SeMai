@@ -1,0 +1,18 @@
+{
+  "id": "e-huang",
+  "name": "鹅黄",
+  "pinyin": "E Huang",
+  "hex": "#FFF143",
+  "rgb": [255, 241, 67],
+  "cmyk": [0, 5, 74, 0],
+  "hsl": [56, 100, 63],
+  "dynasties": ["唐", "宋", "明"],
+  "category": "黄",
+  "moods": ["天然", "空灵"],
+  "material": "丝绸",
+  "description": "嫩鹅绒毛之色，娇嫩如初春柳芽。",
+  "descriptionEn": "The tender yellow of gosling down, delicate as the first willow buds unfurling in early spring.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

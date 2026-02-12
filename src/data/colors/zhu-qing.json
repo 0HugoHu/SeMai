@@ -1,0 +1,18 @@
+{
+  "id": "zhu-qing",
+  "name": "竹青",
+  "pinyin": "Zhu Qing",
+  "hex": "#789262",
+  "rgb": [120, 146, 98],
+  "cmyk": [18, 0, 33, 43],
+  "hsl": [93, 20, 48],
+  "dynasties": ["宋", "元", "明"],
+  "category": "绿",
+  "moods": ["雅致", "天然"],
+  "material": "建筑",
+  "description": "翠竹外皮之色，沉静幽远，君子之象。",
+  "descriptionEn": "The muted green of bamboo bark, tranquil and profound, a symbol of the noble gentleman's character.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "qing-bai",
+  "name": "青白",
+  "pinyin": "Qing Bai",
+  "hex": "#C0EBD7",
+  "rgb": [192, 235, 215],
+  "cmyk": [18, 0, 9, 8],
+  "hsl": [152, 48, 84],
+  "dynasties": ["宋", "元"],
+  "category": "青",
+  "moods": ["空灵", "雅致"],
+  "material": "陶瓷",
+  "description": "青白瓷之色，如冰似玉，宋人雅韵之极致。",
+  "descriptionEn": "The color of qingbai porcelain, icy as jade, the pinnacle of Song dynasty refined aesthetics.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

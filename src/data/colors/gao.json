@@ -1,0 +1,18 @@
+{
+  "id": "gao",
+  "name": "缟",
+  "pinyin": "Gao",
+  "hex": "#F2ECDE",
+  "rgb": [242, 236, 222],
+  "cmyk": [0, 2, 8, 5],
+  "hsl": [42, 43, 91],
+  "dynasties": ["周", "秦", "汉"],
+  "category": "白",
+  "moods": ["庄重", "雅致"],
+  "material": "丝绸",
+  "description": "白色生绢之色，略带暖意，先秦丧服之用。",
+  "descriptionEn": "The warm white of raw silk, with the faintest ivory warmth, used for mourning garments in pre-Qin times.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

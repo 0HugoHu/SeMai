@@ -1,0 +1,18 @@
+{
+  "id": "tong-lv",
+  "name": "铜绿",
+  "pinyin": "Tong Lv",
+  "hex": "#549688",
+  "rgb": [84, 150, 136],
+  "cmyk": [44, 0, 9, 41],
+  "hsl": [167, 28, 46],
+  "dynasties": ["周", "汉", "唐"],
+  "category": "青",
+  "moods": ["深沉", "雅致"],
+  "material": "矿石",
+  "description": "青铜锈蚀之色，千年斑驳中沉淀着厚重的历史。",
+  "descriptionEn": "The patina of aged bronze, its mottled surface a testament to millennia of accumulated history.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

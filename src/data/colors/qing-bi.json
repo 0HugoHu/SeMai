@@ -1,0 +1,18 @@
+{
+  "id": "qing-bi",
+  "name": "青碧",
+  "pinyin": "Qing Bi",
+  "hex": "#48C0A3",
+  "rgb": [72, 192, 163],
+  "cmyk": [63, 0, 15, 25],
+  "hsl": [165, 49, 52],
+  "dynasties": ["汉", "唐", "宋"],
+  "category": "绿",
+  "moods": ["空灵", "雅致"],
+  "material": "矿石",
+  "description": "青玉碧水之色，清澈明净，似山间溪流映翠。",
+  "descriptionEn": "The limpid hue of jade and clear waters, pure and bright, like mountain streams reflecting verdant cliffs.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

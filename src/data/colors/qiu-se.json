@@ -1,0 +1,18 @@
+{
+  "id": "qiu-se",
+  "name": "秋色",
+  "pinyin": "Qiu Se",
+  "hex": "#896C39",
+  "rgb": [137, 108, 57],
+  "cmyk": [0, 21, 58, 46],
+  "hsl": [38, 41, 38],
+  "dynasties": ["宋", "明", "清"],
+  "category": "棕",
+  "moods": ["深沉", "天然"],
+  "material": "织锦",
+  "description": "深秋落叶之色，苍茫中带着丰收的满足。",
+  "descriptionEn": "The color of late autumn leaves, vast and somber, yet carrying the contentment of a bountiful harvest.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

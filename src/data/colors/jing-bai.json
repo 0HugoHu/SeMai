@@ -1,0 +1,18 @@
+{
+  "id": "jing-bai",
+  "name": "精白",
+  "pinyin": "Jing Bai",
+  "hex": "#FFFFFF",
+  "rgb": [255, 255, 255],
+  "cmyk": [0, 0, 0, 0],
+  "hsl": [0, 0, 100],
+  "dynasties": ["周", "秦", "汉", "唐", "宋"],
+  "category": "白",
+  "moods": ["空灵", "庄重"],
+  "material": "陶瓷",
+  "description": "纯白无瑕之色，五正色之一，西方之色，金德之象。",
+  "descriptionEn": "Pure, flawless white, one of the five cardinal colors, the hue of the west, symbol of the virtue of metal.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "xue-qing",
+  "name": "雪青",
+  "pinyin": "Xue Qing",
+  "hex": "#B0A4E3",
+  "rgb": [176, 164, 227],
+  "cmyk": [22, 28, 0, 11],
+  "hsl": [251, 53, 77],
+  "dynasties": ["宋", "明", "清"],
+  "category": "紫",
+  "moods": ["空灵", "雅致"],
+  "material": "丝绸",
+  "description": "雪中透青之色，冷艳清幽，如冬日暮光。",
+  "descriptionEn": "A bluish purple like snow tinged with twilight, cold yet beautiful, like the last light of a winter evening.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

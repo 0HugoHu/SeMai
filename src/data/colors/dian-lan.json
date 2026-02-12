@@ -1,0 +1,18 @@
+{
+  "id": "dian-lan",
+  "name": "靛蓝",
+  "pinyin": "Dian Lan",
+  "hex": "#065279",
+  "rgb": [6, 82, 121],
+  "cmyk": [95, 32, 0, 53],
+  "hsl": [200, 91, 25],
+  "dynasties": ["周", "汉", "唐", "宋", "明"],
+  "category": "蓝",
+  "moods": ["庄重", "深沉"],
+  "material": "织锦",
+  "description": "蓝靛草所染之色，深邃如夜海，青出于蓝而胜于蓝。",
+  "descriptionEn": "Dyed from indigo plants, deep as the night sea -- the color that surpasses the blue from which it came.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

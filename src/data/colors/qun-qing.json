@@ -1,0 +1,18 @@
+{
+  "id": "qun-qing",
+  "name": "群青",
+  "pinyin": "Qun Qing",
+  "hex": "#4C8DAE",
+  "rgb": [76, 141, 174],
+  "cmyk": [56, 19, 0, 32],
+  "hsl": [200, 39, 49],
+  "dynasties": ["唐", "宋", "元", "明"],
+  "category": "蓝",
+  "moods": ["空灵", "雅致"],
+  "material": "矿石",
+  "description": "青金石研磨而成，蓝如碧空万里，画师心中至宝。",
+  "descriptionEn": "Ground from lapis lazuli, blue as an endless sky, the most treasured pigment in a painter's palette.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

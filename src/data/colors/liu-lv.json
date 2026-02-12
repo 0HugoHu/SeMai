@@ -1,0 +1,18 @@
+{
+  "id": "liu-lv",
+  "name": "柳绿",
+  "pinyin": "Liu Lv",
+  "hex": "#AFDD22",
+  "rgb": [175, 221, 34],
+  "cmyk": [21, 0, 85, 13],
+  "hsl": [75, 75, 50],
+  "dynasties": ["唐", "宋", "明"],
+  "category": "绿",
+  "moods": ["天然", "空灵"],
+  "material": "丝绸",
+  "description": "春柳垂丝之色，嫩黄透绿，如烟似雾笼岸堤。",
+  "descriptionEn": "The yellow-green of willow fronds in spring, tender shoots veiled in mist along the riverbanks.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

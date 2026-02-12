@@ -1,0 +1,18 @@
+{
+  "id": "ming-huang",
+  "name": "明黄",
+  "pinyin": "Ming Huang",
+  "hex": "#F2CE2B",
+  "rgb": [242, 206, 43],
+  "cmyk": [0, 15, 82, 5],
+  "hsl": [49, 89, 56],
+  "dynasties": ["唐", "宋", "明", "清"],
+  "category": "黄",
+  "moods": ["威严", "庄重"],
+  "material": "丝绸",
+  "description": "帝王御用之色，金碧辉煌，至尊至贵。",
+  "descriptionEn": "The imperial yellow reserved for emperors, resplendent and magnificent, the ultimate symbol of supreme authority.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

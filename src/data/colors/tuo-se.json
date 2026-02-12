@@ -1,0 +1,18 @@
+{
+  "id": "tuo-se",
+  "name": "驼色",
+  "pinyin": "Tuo Se",
+  "hex": "#A88462",
+  "rgb": [168, 132, 98],
+  "cmyk": [0, 21, 42, 34],
+  "hsl": [29, 28, 52],
+  "dynasties": ["唐", "宋", "元"],
+  "category": "棕",
+  "moods": ["温润", "天然"],
+  "material": "织锦",
+  "description": "骆驼绒毛之色，温暖朴实，丝路风沙之记忆。",
+  "descriptionEn": "The warm tan of camel hair, honest and earthy, carrying memories of Silk Road winds and desert sands.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

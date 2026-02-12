@@ -1,0 +1,18 @@
+{
+  "id": "zhe-shi",
+  "name": "赭石",
+  "pinyin": "Zhe Shi",
+  "hex": "#845A33",
+  "rgb": [132, 90, 51],
+  "cmyk": [0, 32, 61, 48],
+  "hsl": [29, 44, 36],
+  "dynasties": ["周", "汉", "唐", "宋"],
+  "category": "棕",
+  "moods": ["天然", "深沉"],
+  "material": "矿石",
+  "description": "赭石矿研磨之色，厚重温朴，大地本色。",
+  "descriptionEn": "Ground from ochre stone, heavy and honest, the elemental color of the earth itself.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

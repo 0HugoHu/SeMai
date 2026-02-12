@@ -1,0 +1,18 @@
+{
+  "id": "qing-lian",
+  "name": "青莲",
+  "pinyin": "Qing Lian",
+  "hex": "#801DAE",
+  "rgb": [128, 29, 174],
+  "cmyk": [26, 83, 0, 32],
+  "hsl": [281, 71, 40],
+  "dynasties": ["唐", "宋"],
+  "category": "紫",
+  "moods": ["空灵", "庄重"],
+  "material": "织锦",
+  "description": "青色莲花之色，超凡脱俗，李白号青莲居士。",
+  "descriptionEn": "The purple of the blue lotus, transcendent and otherworldly, the very hue from which the poet Li Bai took his sobriquet.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

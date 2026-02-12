@@ -1,0 +1,18 @@
+{
+  "id": "xing-huang",
+  "name": "杏黄",
+  "pinyin": "Xing Huang",
+  "hex": "#F7A941",
+  "rgb": [247, 169, 65],
+  "cmyk": [0, 32, 74, 3],
+  "hsl": [34, 93, 61],
+  "dynasties": ["唐", "宋", "明"],
+  "category": "橙",
+  "moods": ["温润", "天然"],
+  "material": "丝绸",
+  "description": "杏果将熟之色，暖意融融，带有丰收的气息。",
+  "descriptionEn": "The warm hue of ripening apricots, suffused with gentle warmth and the promise of harvest.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "jiang-zi",
+  "name": "绛紫",
+  "pinyin": "Jiang Zi",
+  "hex": "#8C4356",
+  "rgb": [140, 67, 86],
+  "cmyk": [0, 52, 39, 45],
+  "hsl": [344, 35, 41],
+  "dynasties": ["汉", "唐", "宋"],
+  "category": "红",
+  "moods": ["庄重", "深沉"],
+  "material": "织锦",
+  "description": "绛与紫交融之色，沉郁而贵气，常见于官服之中。",
+  "descriptionEn": "A convergence of crimson and purple, somber yet noble, frequently seen in the robes of court officials.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

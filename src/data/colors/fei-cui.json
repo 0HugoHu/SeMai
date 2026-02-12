@@ -1,0 +1,18 @@
+{
+  "id": "fei-cui",
+  "name": "翡翠",
+  "pinyin": "Fei Cui",
+  "hex": "#3B9B6D",
+  "rgb": [59, 155, 109],
+  "cmyk": [62, 0, 30, 39],
+  "hsl": [151, 45, 42],
+  "dynasties": ["汉", "唐", "宋", "明", "清"],
+  "category": "青",
+  "moods": ["雅致", "天然"],
+  "material": "矿石",
+  "description": "翡翠鸟羽之色，温润含蓄，东方之宝石。",
+  "descriptionEn": "Named for the kingfisher's plumage, warm and understated, the gemstone of the East.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "xiang-se",
+  "name": "缃色",
+  "pinyin": "Xiang Se",
+  "hex": "#F0D695",
+  "rgb": [240, 214, 149],
+  "cmyk": [0, 11, 38, 6],
+  "hsl": [43, 78, 76],
+  "dynasties": ["汉", "唐", "宋"],
+  "category": "黄",
+  "moods": ["温润", "雅致"],
+  "material": "丝绸",
+  "description": "浅黄绢帛之色，素雅恬淡，文人书卷的底色。",
+  "descriptionEn": "The pale yellow of fine silk, understated and serene, the very tint of a scholar's beloved scrolls.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

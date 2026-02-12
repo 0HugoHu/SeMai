@@ -1,0 +1,18 @@
+{
+  "id": "song-hua-huang",
+  "name": "松花黄",
+  "pinyin": "Song Hua Huang",
+  "hex": "#ECCF5F",
+  "rgb": [236, 207, 95],
+  "cmyk": [0, 12, 60, 7],
+  "hsl": [48, 79, 65],
+  "dynasties": ["宋", "清"],
+  "category": "黄",
+  "moods": ["天然", "雅致"],
+  "material": "陶瓷",
+  "description": "松花粉之黄，淡雅清新，康熙御瓷之名色。",
+  "descriptionEn": "The soft yellow of pine pollen, refined and fresh, a celebrated color of Kangxi imperial porcelain.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

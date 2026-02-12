@@ -1,0 +1,18 @@
+{
+  "id": "ai-lv",
+  "name": "艾绿",
+  "pinyin": "Ai Lv",
+  "hex": "#A4C161",
+  "rgb": [164, 193, 97],
+  "cmyk": [15, 0, 50, 24],
+  "hsl": [78, 44, 57],
+  "dynasties": ["汉", "唐", "宋"],
+  "category": "绿",
+  "moods": ["天然", "温润"],
+  "material": "织锦",
+  "description": "艾草嫩叶之色，端午悬挂之物，清苦中带有药香。",
+  "descriptionEn": "The soft green of mugwort leaves, hung at doorways during the Dragon Boat Festival, carrying a medicinal bitterness.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

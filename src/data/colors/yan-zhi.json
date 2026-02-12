@@ -1,0 +1,18 @@
+{
+  "id": "yan-zhi",
+  "name": "胭脂",
+  "pinyin": "Yan Zhi",
+  "hex": "#9B1E64",
+  "rgb": [155, 30, 100],
+  "cmyk": [0, 81, 35, 39],
+  "hsl": [326, 68, 36],
+  "dynasties": ["汉", "唐", "宋", "明", "清"],
+  "category": "红",
+  "moods": ["雅致", "温润"],
+  "material": "丝绸",
+  "description": "胭脂虫所化之色，浓淡相宜，尽显闺阁之韵。",
+  "descriptionEn": "A rich carmine derived from the cochineal insect, its depth and subtlety embody the refined elegance of the inner chambers.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

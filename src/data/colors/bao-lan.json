@@ -1,0 +1,18 @@
+{
+  "id": "bao-lan",
+  "name": "宝蓝",
+  "pinyin": "Bao Lan",
+  "hex": "#4B5CC4",
+  "rgb": [75, 92, 196],
+  "cmyk": [62, 53, 0, 23],
+  "hsl": [232, 50, 53],
+  "dynasties": ["明", "清"],
+  "category": "蓝",
+  "moods": ["威严", "庄重"],
+  "material": "陶瓷",
+  "description": "宝石之蓝，华贵深邃，明清官窑青花之上品。",
+  "descriptionEn": "A sapphire blue, magnificent and profound, the finest hue of Ming and Qing imperial blue-and-white porcelain.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

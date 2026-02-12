@@ -1,0 +1,18 @@
+{
+  "id": "cui-lv",
+  "name": "翠绿",
+  "pinyin": "Cui Lv",
+  "hex": "#00A854",
+  "rgb": [0, 168, 84],
+  "cmyk": [100, 0, 50, 34],
+  "hsl": [150, 100, 33],
+  "dynasties": ["唐", "宋", "明", "清"],
+  "category": "绿",
+  "moods": ["天然", "空灵"],
+  "material": "矿石",
+  "description": "翡翠之绿，通透灵动，凝结天地之精华。",
+  "descriptionEn": "The green of fine jadeite, translucent and vivid, crystallizing the essence of heaven and earth.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

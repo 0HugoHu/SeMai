@@ -1,0 +1,18 @@
+{
+  "id": "ju-hong",
+  "name": "橘红",
+  "pinyin": "Ju Hong",
+  "hex": "#F97D1C",
+  "rgb": [249, 125, 28],
+  "cmyk": [0, 50, 89, 2],
+  "hsl": [26, 95, 54],
+  "dynasties": ["宋", "明", "清"],
+  "category": "橙",
+  "moods": ["喜庆", "天然"],
+  "material": "陶瓷",
+  "description": "橘皮之色，热烈明快，秋日里最温暖的色调。",
+  "descriptionEn": "The color of tangerine peel, vivid and cheerful, the warmest tone amidst the autumn landscape.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

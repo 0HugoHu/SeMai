@@ -1,0 +1,18 @@
+{
+  "id": "zi-tang",
+  "name": "紫棠",
+  "pinyin": "Zi Tang",
+  "hex": "#56004F",
+  "rgb": [86, 0, 79],
+  "cmyk": [0, 100, 8, 66],
+  "hsl": [305, 100, 17],
+  "dynasties": ["唐", "宋", "明"],
+  "category": "紫",
+  "moods": ["深沉", "威严"],
+  "material": "漆器",
+  "description": "紫色极深处，如暗夜中绽放的棠棣花，幽然高贵。",
+  "descriptionEn": "The deepest depths of purple, like kerria flowers blooming in the dark of night, mysteriously noble.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

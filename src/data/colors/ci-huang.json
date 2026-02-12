@@ -1,0 +1,18 @@
+{
+  "id": "ci-huang",
+  "name": "雌黄",
+  "pinyin": "Ci Huang",
+  "hex": "#FFC64B",
+  "rgb": [255, 198, 75],
+  "cmyk": [0, 22, 71, 0],
+  "hsl": [41, 100, 65],
+  "dynasties": ["汉", "唐"],
+  "category": "黄",
+  "moods": ["天然", "温润"],
+  "material": "矿石",
+  "description": "雌黄矿石之色，古人用以涂改文字，故有'信口雌黄'之说。",
+  "descriptionEn": "The color of orpiment mineral, once used to correct text on yellow paper, giving rise to the idiom for speaking carelessly.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

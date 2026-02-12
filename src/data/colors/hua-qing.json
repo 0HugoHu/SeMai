@@ -1,0 +1,18 @@
+{
+  "id": "hua-qing",
+  "name": "花青",
+  "pinyin": "Hua Qing",
+  "hex": "#003472",
+  "rgb": [0, 52, 114],
+  "cmyk": [100, 54, 0, 55],
+  "hsl": [213, 100, 22],
+  "dynasties": ["唐", "宋", "元"],
+  "category": "蓝",
+  "moods": ["深沉", "庄重"],
+  "material": "矿石",
+  "description": "花青石之色，幽深静谧，国画山水之灵魂。",
+  "descriptionEn": "The color of azurite pigment, serene and profound, the very soul of traditional Chinese landscape painting.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

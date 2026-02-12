@@ -1,0 +1,18 @@
+{
+  "id": "song-hua-lv",
+  "name": "松花绿",
+  "pinyin": "Song Hua Lv",
+  "hex": "#BCE672",
+  "rgb": [188, 230, 114],
+  "cmyk": [18, 0, 50, 10],
+  "hsl": [82, 70, 67],
+  "dynasties": ["宋", "明", "清"],
+  "category": "绿",
+  "moods": ["天然", "空灵"],
+  "material": "陶瓷",
+  "description": "松花粉落之色，嫩绿清新，如春山初醒。",
+  "descriptionEn": "The fresh green of pine pollen, tender and crisp, like spring mountains awakening from winter slumber.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

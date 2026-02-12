@@ -1,0 +1,18 @@
+{
+  "id": "qiu-xiang",
+  "name": "秋香",
+  "pinyin": "Qiu Xiang",
+  "hex": "#D9B611",
+  "rgb": [217, 182, 17],
+  "cmyk": [0, 16, 92, 15],
+  "hsl": [50, 85, 46],
+  "dynasties": ["宋", "明", "清"],
+  "category": "黄",
+  "moods": ["雅致", "天然"],
+  "material": "织锦",
+  "description": "秋日桂花之色，暗香浮动，金黄中带一缕青翠。",
+  "descriptionEn": "The golden hue of autumn osmanthus, with its subtle fragrance drifting on the air, gold touched with a whisper of green.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

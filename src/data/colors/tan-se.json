@@ -1,0 +1,18 @@
+{
+  "id": "tan-se",
+  "name": "檀色",
+  "pinyin": "Tan Se",
+  "hex": "#B36D61",
+  "rgb": [179, 109, 97],
+  "cmyk": [0, 39, 46, 30],
+  "hsl": [9, 33, 54],
+  "dynasties": ["唐", "宋", "明"],
+  "category": "棕",
+  "moods": ["温润", "雅致"],
+  "material": "建筑",
+  "description": "檀木之色，温润沉香，古刹佛堂的底色。",
+  "descriptionEn": "The rosy brown of sandalwood, warm and fragrant, the foundational hue of ancient temple halls.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

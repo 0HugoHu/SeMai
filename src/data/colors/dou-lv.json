@@ -1,0 +1,18 @@
+{
+  "id": "dou-lv",
+  "name": "豆绿",
+  "pinyin": "Dou Lv",
+  "hex": "#9ED048",
+  "rgb": [158, 208, 72],
+  "cmyk": [24, 0, 65, 18],
+  "hsl": [82, 59, 55],
+  "dynasties": ["宋", "明", "清"],
+  "category": "绿",
+  "moods": ["天然", "空灵"],
+  "material": "陶瓷",
+  "description": "豆荚初生之色，生机盎然，满含春日的活力。",
+  "descriptionEn": "The fresh green of newly formed bean pods, brimming with vitality and the exuberant energy of spring.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

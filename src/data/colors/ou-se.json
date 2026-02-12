@@ -1,0 +1,18 @@
+{
+  "id": "ou-se",
+  "name": "藕色",
+  "pinyin": "Ou Se",
+  "hex": "#EDD1D8",
+  "rgb": [237, 209, 216],
+  "cmyk": [0, 12, 9, 7],
+  "hsl": [345, 42, 87],
+  "dynasties": ["宋", "明", "清"],
+  "category": "紫",
+  "moods": ["温润", "雅致"],
+  "material": "丝绸",
+  "description": "莲藕断丝之色，浅淡温柔，似薄纱笼花。",
+  "descriptionEn": "The pale blush of lotus root, gentle and soft, like gauze draped delicately over blossoms.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

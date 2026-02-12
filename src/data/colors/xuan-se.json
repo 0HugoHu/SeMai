@@ -1,0 +1,18 @@
+{
+  "id": "xuan-se",
+  "name": "玄色",
+  "pinyin": "Xuan Se",
+  "hex": "#622A1D",
+  "rgb": [98, 42, 29],
+  "cmyk": [0, 57, 70, 62],
+  "hsl": [11, 54, 25],
+  "dynasties": ["周", "秦", "汉"],
+  "category": "黑",
+  "moods": ["威严", "庄重", "深沉"],
+  "material": "织锦",
+  "description": "天色将暮之赤黑，五正色之外玄妙之色，道家崇尚之极。",
+  "descriptionEn": "The reddish-black of twilight's last moments, a mysterious hue beyond the five cardinal colors, revered by Daoists.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

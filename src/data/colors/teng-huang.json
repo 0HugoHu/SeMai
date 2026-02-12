@@ -1,0 +1,18 @@
+{
+  "id": "teng-huang",
+  "name": "藤黄",
+  "pinyin": "Teng Huang",
+  "hex": "#FFB61E",
+  "rgb": [255, 182, 30],
+  "cmyk": [0, 29, 88, 0],
+  "hsl": [40, 100, 56],
+  "dynasties": ["唐", "宋", "元", "明"],
+  "category": "黄",
+  "moods": ["天然", "温润"],
+  "material": "矿石",
+  "description": "取自藤黄树之胶脂，画师调色之珍品，明丽如朝露映日。",
+  "descriptionEn": "Extracted from gamboge tree resin, a painter's treasure, luminous as morning dew catching the first sunlight.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

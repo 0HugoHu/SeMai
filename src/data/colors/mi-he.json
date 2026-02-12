@@ -1,0 +1,18 @@
+{
+  "id": "mi-he",
+  "name": "蜜合",
+  "pinyin": "Mi He",
+  "hex": "#F8BC31",
+  "rgb": [248, 188, 49],
+  "cmyk": [0, 24, 80, 3],
+  "hsl": [42, 94, 58],
+  "dynasties": ["唐", "宋"],
+  "category": "橙",
+  "moods": ["温润", "天然"],
+  "material": "丝绸",
+  "description": "蜂蜜调和之色，甜润而饱满，如金秋暖阳。",
+  "descriptionEn": "A honeyed blend of gold, sweet and full-bodied, like the warm autumn sun spilling across the fields.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

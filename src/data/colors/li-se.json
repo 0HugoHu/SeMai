@@ -1,0 +1,18 @@
+{
+  "id": "li-se",
+  "name": "栗色",
+  "pinyin": "Li Se",
+  "hex": "#60281E",
+  "rgb": [96, 40, 30],
+  "cmyk": [0, 58, 69, 62],
+  "hsl": [9, 52, 25],
+  "dynasties": ["汉", "唐", "宋", "明"],
+  "category": "棕",
+  "moods": ["深沉", "温润"],
+  "material": "漆器",
+  "description": "成熟栗壳之色，沉着温厚，如秋山暮景。",
+  "descriptionEn": "The deep brown of ripe chestnut shells, steadfast and warm, like the evening view of autumn hills.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

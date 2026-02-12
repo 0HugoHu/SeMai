@@ -1,0 +1,18 @@
+{
+  "id": "zhu-hong",
+  "name": "朱红",
+  "pinyin": "Zhu Hong",
+  "hex": "#F04B22",
+  "rgb": [240, 75, 34],
+  "cmyk": [0, 69, 86, 6],
+  "hsl": [12, 87, 54],
+  "dynasties": ["周", "汉", "唐", "宋", "明", "清"],
+  "category": "红",
+  "moods": ["威严", "庄重", "喜庆"],
+  "material": "建筑",
+  "description": "宫墙大门之色，最正统的中国红，承载千年礼制。",
+  "descriptionEn": "The color of palace walls and grand gates, the most orthodox Chinese red, bearing a thousand years of ritual tradition.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

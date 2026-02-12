@@ -1,0 +1,18 @@
+{
+  "id": "feng-xin-zi",
+  "name": "凤信紫",
+  "pinyin": "Feng Xin Zi",
+  "hex": "#6E3E8E",
+  "rgb": [110, 62, 142],
+  "cmyk": [23, 56, 0, 44],
+  "hsl": [276, 39, 40],
+  "dynasties": ["明", "清"],
+  "category": "紫",
+  "moods": ["雅致", "空灵"],
+  "material": "丝绸",
+  "description": "凤仙花信之色，紫气东来，预兆祥瑞。",
+  "descriptionEn": "The purple of the phoenix messenger flower, evoking the auspicious purple mist drifting from the east.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

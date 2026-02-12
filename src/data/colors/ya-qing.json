@@ -1,0 +1,18 @@
+{
+  "id": "ya-qing",
+  "name": "鸦青",
+  "pinyin": "Ya Qing",
+  "hex": "#424C50",
+  "rgb": [66, 76, 80],
+  "cmyk": [18, 5, 0, 69],
+  "hsl": [197, 10, 29],
+  "dynasties": ["唐", "宋", "明"],
+  "category": "青",
+  "moods": ["深沉", "庄重"],
+  "material": "织锦",
+  "description": "乌鸦翎羽之色，深沉似暮色四合的天际。",
+  "descriptionEn": "The dark sheen of crow feathers, deep as the sky when twilight closes in from all sides.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

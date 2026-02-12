@@ -1,0 +1,18 @@
+{
+  "id": "ding-xiang",
+  "name": "丁香",
+  "pinyin": "Ding Xiang",
+  "hex": "#CCA4E3",
+  "rgb": [204, 164, 227],
+  "cmyk": [10, 28, 0, 11],
+  "hsl": [278, 53, 77],
+  "dynasties": ["唐", "宋", "明"],
+  "category": "紫",
+  "moods": ["空灵", "雅致"],
+  "material": "丝绸",
+  "description": "丁香花初绽之色，淡雅如烟，带着忧愁的美。",
+  "descriptionEn": "The delicate hue of lilac blossoms just opening, pale as mist, carrying a melancholy beauty.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

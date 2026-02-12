@@ -1,0 +1,18 @@
+{
+  "id": "dai",
+  "name": "黛",
+  "pinyin": "Dai",
+  "hex": "#4A4266",
+  "rgb": [74, 66, 102],
+  "cmyk": [27, 35, 0, 60],
+  "hsl": [253, 21, 33],
+  "dynasties": ["汉", "唐", "宋", "明"],
+  "category": "黑",
+  "moods": ["雅致", "深沉"],
+  "material": "矿石",
+  "description": "远山含黛之色，画眉之墨，氤氲着水墨山水的诗意。",
+  "descriptionEn": "The dusky blue-black of distant mountains, the tint of eyebrow ink, suffused with the poetry of misty landscapes.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

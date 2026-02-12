@@ -1,0 +1,18 @@
+{
+  "id": "su-bai",
+  "name": "素白",
+  "pinyin": "Su Bai",
+  "hex": "#F0F0F4",
+  "rgb": [240, 240, 244],
+  "cmyk": [2, 2, 0, 4],
+  "hsl": [240, 20, 95],
+  "dynasties": ["周", "汉", "唐", "宋"],
+  "category": "白",
+  "moods": ["空灵", "庄重"],
+  "material": "丝绸",
+  "description": "未染之素绢之色，至纯至净，如初雪覆原。",
+  "descriptionEn": "The color of undyed raw silk, pure and immaculate, like the first snow covering an open plain.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

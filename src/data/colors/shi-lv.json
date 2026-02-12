@@ -1,0 +1,18 @@
+{
+  "id": "shi-lv",
+  "name": "石绿",
+  "pinyin": "Shi Lv",
+  "hex": "#16A951",
+  "rgb": [22, 169, 81],
+  "cmyk": [87, 0, 52, 34],
+  "hsl": [144, 77, 37],
+  "dynasties": ["唐", "宋", "元", "明"],
+  "category": "绿",
+  "moods": ["天然", "庄重"],
+  "material": "矿石",
+  "description": "孔雀石研磨而成之色，浓郁苍翠，壁画中常见。",
+  "descriptionEn": "Ground from malachite, a deep and luxuriant green, frequently found adorning the walls of ancient murals.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

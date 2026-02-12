@@ -1,0 +1,18 @@
+{
+  "id": "shuang-se",
+  "name": "霜色",
+  "pinyin": "Shuang Se",
+  "hex": "#E9E7EF",
+  "rgb": [233, 231, 239],
+  "cmyk": [3, 3, 0, 6],
+  "hsl": [255, 21, 92],
+  "dynasties": ["唐", "宋"],
+  "category": "白",
+  "moods": ["空灵", "雅致"],
+  "material": "陶瓷",
+  "description": "秋霜凝结之色，冷冽纯净，万物肃然之美。",
+  "descriptionEn": "The crystalline hue of autumn frost, crisp and pure, the austere beauty of all things in solemn stillness.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

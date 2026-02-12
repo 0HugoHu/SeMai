@@ -1,0 +1,18 @@
+{
+  "id": "hu-po",
+  "name": "琥珀",
+  "pinyin": "Hu Po",
+  "hex": "#CA6924",
+  "rgb": [202, 105, 36],
+  "cmyk": [0, 48, 82, 21],
+  "hsl": [25, 70, 47],
+  "dynasties": ["汉", "唐", "宋", "明"],
+  "category": "橙",
+  "moods": ["温润", "深沉"],
+  "material": "矿石",
+  "description": "千万年树脂凝结之色，温润透亮，藏着远古的光阴。",
+  "descriptionEn": "The hue of resin crystallized over millennia, warm and translucent, harboring the light of ancient times.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

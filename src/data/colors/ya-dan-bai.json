@@ -1,0 +1,18 @@
+{
+  "id": "ya-dan-bai",
+  "name": "鸭蛋白",
+  "pinyin": "Ya Dan Bai",
+  "hex": "#E0EEE8",
+  "rgb": [224, 238, 232],
+  "cmyk": [6, 0, 3, 7],
+  "hsl": [154, 30, 91],
+  "dynasties": ["宋", "明", "清"],
+  "category": "白",
+  "moods": ["空灵", "天然"],
+  "material": "陶瓷",
+  "description": "鸭蛋壳之青白，温润如玉，清新淡雅。",
+  "descriptionEn": "The pale celadon-white of duck eggshell, smooth as jade, fresh and gently understated.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

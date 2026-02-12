@@ -1,0 +1,18 @@
+{
+  "id": "da-hong",
+  "name": "大红",
+  "pinyin": "Da Hong",
+  "hex": "#DC143C",
+  "rgb": [220, 20, 60],
+  "cmyk": [0, 91, 73, 14],
+  "hsl": [348, 83, 47],
+  "dynasties": ["唐", "宋", "明", "清"],
+  "category": "红",
+  "moods": ["喜庆", "威严"],
+  "material": "丝绸",
+  "description": "正红之色，喜庆祥瑞之极，自古为华服婚嫁之首选。",
+  "descriptionEn": "The quintessential Chinese red, a color of celebration and auspiciousness, traditionally the first choice for wedding garments and festive occasions.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "fei-se",
+  "name": "妃色",
+  "pinyin": "Fei Se",
+  "hex": "#ED5736",
+  "rgb": [237, 87, 54],
+  "cmyk": [0, 63, 77, 7],
+  "hsl": [11, 84, 57],
+  "dynasties": ["唐", "宋"],
+  "category": "红",
+  "moods": ["温润", "喜庆"],
+  "material": "丝绸",
+  "description": "妃色如杨贵妃醉后双颊之晕，媚而不俗。",
+  "descriptionEn": "A warm coral reminiscent of the flushed cheeks of an imperial consort, alluring yet never vulgar.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

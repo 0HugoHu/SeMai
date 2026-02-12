@@ -1,0 +1,18 @@
+{
+  "id": "jiang-huang",
+  "name": "姜黄",
+  "pinyin": "Jiang Huang",
+  "hex": "#E2C027",
+  "rgb": [226, 192, 39],
+  "cmyk": [0, 15, 83, 11],
+  "hsl": [49, 78, 52],
+  "dynasties": ["汉", "唐", "宋"],
+  "category": "黄",
+  "moods": ["天然", "温润"],
+  "material": "织锦",
+  "description": "老姜根茎之色，温厚沉着，带泥土的芬芳。",
+  "descriptionEn": "The earthy tone of aged ginger root, warm and grounded, carrying the fragrance of the soil.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

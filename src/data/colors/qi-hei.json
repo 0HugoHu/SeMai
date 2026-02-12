@@ -1,0 +1,18 @@
+{
+  "id": "qi-hei",
+  "name": "漆黑",
+  "pinyin": "Qi Hei",
+  "hex": "#161823",
+  "rgb": [22, 24, 35],
+  "cmyk": [37, 31, 0, 86],
+  "hsl": [231, 23, 11],
+  "dynasties": ["周", "汉", "唐", "宋", "明"],
+  "category": "黑",
+  "moods": ["深沉", "庄重"],
+  "material": "漆器",
+  "description": "生漆涂覆之色，黑如深渊，光可鉴人。",
+  "descriptionEn": "The jet-black of lacquer coating, dark as an abyss yet polished to a mirror-like sheen.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

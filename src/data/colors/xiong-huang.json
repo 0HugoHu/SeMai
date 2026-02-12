@@ -1,0 +1,18 @@
+{
+  "id": "xiong-huang",
+  "name": "雄黄",
+  "pinyin": "Xiong Huang",
+  "hex": "#E9BB1D",
+  "rgb": [233, 187, 29],
+  "cmyk": [0, 20, 88, 9],
+  "hsl": [46, 84, 51],
+  "dynasties": ["周", "汉", "唐", "宋"],
+  "category": "橙",
+  "moods": ["天然", "威严"],
+  "material": "矿石",
+  "description": "雄黄矿所出之色，端午驱邪之物，明亮而刚烈。",
+  "descriptionEn": "Born from orpiment ore, the substance of Dragon Boat Festival exorcisms, bright and unyielding in character.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

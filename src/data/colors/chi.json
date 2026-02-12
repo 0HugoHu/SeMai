@@ -1,0 +1,18 @@
+{
+  "id": "chi",
+  "name": "赤",
+  "pinyin": "Chi",
+  "hex": "#C3272B",
+  "rgb": [195, 39, 43],
+  "cmyk": [0, 80, 78, 24],
+  "hsl": [358, 67, 46],
+  "dynasties": ["周", "秦", "汉", "唐"],
+  "category": "红",
+  "moods": ["威严", "庄重"],
+  "material": "漆器",
+  "description": "五正色之一，南方之色，象征火德与礼仪之邦。",
+  "descriptionEn": "One of the five cardinal colors, the hue of the south, symbolizing the virtue of fire and the realm of propriety.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

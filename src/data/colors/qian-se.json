@@ -1,0 +1,18 @@
+{
+  "id": "qian-se",
+  "name": "茜色",
+  "pinyin": "Qian Se",
+  "hex": "#CB3A56",
+  "rgb": [203, 58, 86],
+  "cmyk": [0, 71, 58, 20],
+  "hsl": [348, 58, 51],
+  "dynasties": ["汉", "唐", "宋"],
+  "category": "红",
+  "moods": ["雅致", "温润"],
+  "material": "织锦",
+  "description": "茜草根所染之色，沉稳中透出暖意，经久不褪。",
+  "descriptionEn": "Dyed from madder root, a steadfast hue that radiates warmth from within its depths, enduring through the ages.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

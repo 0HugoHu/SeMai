@@ -1,0 +1,18 @@
+{
+  "id": "bi-se",
+  "name": "碧色",
+  "pinyin": "Bi Se",
+  "hex": "#2ADD9C",
+  "rgb": [42, 221, 156],
+  "cmyk": [81, 0, 29, 13],
+  "hsl": [158, 71, 52],
+  "dynasties": ["汉", "唐", "宋", "明"],
+  "category": "青",
+  "moods": ["空灵", "天然"],
+  "material": "矿石",
+  "description": "碧玉通透之色，如春水初涨，清可见底。",
+  "descriptionEn": "The translucent hue of green jade, like spring waters rising clear enough to see the riverbed below.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

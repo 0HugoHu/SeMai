@@ -1,0 +1,18 @@
+{
+  "id": "tian-qing",
+  "name": "天青",
+  "pinyin": "Tian Qing",
+  "hex": "#68B0AB",
+  "rgb": [104, 176, 171],
+  "cmyk": [41, 0, 3, 31],
+  "hsl": [176, 30, 55],
+  "dynasties": ["宋", "元", "明"],
+  "category": "青",
+  "moods": ["空灵", "雅致"],
+  "material": "陶瓷",
+  "description": "雨过天青云破处，汝窑釉色冠绝天下。",
+  "descriptionEn": "The sky after rain, where clouds part to reveal azure -- the supreme glaze of Ru ware, peerless under heaven.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

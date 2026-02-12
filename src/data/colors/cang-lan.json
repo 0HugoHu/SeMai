@@ -1,0 +1,18 @@
+{
+  "id": "cang-lan",
+  "name": "藏蓝",
+  "pinyin": "Cang Lan",
+  "hex": "#2E317C",
+  "rgb": [46, 49, 124],
+  "cmyk": [63, 60, 0, 51],
+  "hsl": [238, 46, 33],
+  "dynasties": ["唐", "宋", "明", "清"],
+  "category": "蓝",
+  "moods": ["深沉", "庄重"],
+  "material": "织锦",
+  "description": "藏青之深色，沉稳内敛，如夜幕初降。",
+  "descriptionEn": "The deepest shade of indigo blue, composed and restrained, like the first descent of the evening curtain.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}

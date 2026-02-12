@@ -1,0 +1,18 @@
+{
+  "id": "yin-zhu",
+  "name": "银朱",
+  "pinyin": "Yin Zhu",
+  "hex": "#F04B22",
+  "rgb": [240, 75, 34],
+  "cmyk": [0, 69, 86, 6],
+  "hsl": [12, 87, 54],
+  "dynasties": ["宋", "明", "清"],
+  "category": "红",
+  "moods": ["喜庆", "威严"],
+  "material": "漆器",
+  "description": "以水银合硫而成，色泽明艳如晨曦初照朱门。",
+  "descriptionEn": "Synthesized from mercury and sulfur, its vivid brilliance recalls the first light of dawn illuminating vermilion gates.",
+  "artifactImage": null,
+  "artifactSource": null,
+  "artifactLicense": null
+}
